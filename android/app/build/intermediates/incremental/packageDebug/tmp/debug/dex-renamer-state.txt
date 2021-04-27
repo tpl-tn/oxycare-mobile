@@ -1,4 +1,4 @@
-#Tue Apr 27 14:34:42 CET 2021
+#Tue Apr 27 18:42:30 WAT 2021
 path.1=classes.dex
 path.0=classes.dex
 renamed.8=classes9.dex
@@ -9,16 +9,16 @@ renamed.4=classes5.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
-base.8=/Users/farhatiriadh/workspace/oxycare-mobile/android/app/build/intermediates/dex/debug/mergeLibDexDebug/classes_6.dex
+base.8=C\:\\Users\\user\\oxycare-mobile\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\classes_6.dex
 renamed.0=classes.dex
-base.7=/Users/farhatiriadh/workspace/oxycare-mobile/android/app/build/intermediates/dex/debug/mergeLibDexDebug/classes_5.dex
-base.6=/Users/farhatiriadh/workspace/oxycare-mobile/android/app/build/intermediates/dex/debug/mergeLibDexDebug/classes_4.dex
-base.5=/Users/farhatiriadh/workspace/oxycare-mobile/android/app/build/intermediates/dex/debug/mergeLibDexDebug/classes_3.dex
-base.4=/Users/farhatiriadh/workspace/oxycare-mobile/android/app/build/intermediates/dex/debug/mergeLibDexDebug/classes_2.dex
-base.3=/Users/farhatiriadh/workspace/oxycare-mobile/android/app/build/intermediates/dex/debug/mergeLibDexDebug/classes_1.dex
-base.2=/Users/farhatiriadh/workspace/oxycare-mobile/android/app/build/intermediates/dex/debug/mergeLibDexDebug/classes_0.dex
-base.1=/Users/farhatiriadh/workspace/oxycare-mobile/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
-base.0=/Users/farhatiriadh/workspace/oxycare-mobile/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.7=C\:\\Users\\user\\oxycare-mobile\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\classes_5.dex
+base.6=C\:\\Users\\user\\oxycare-mobile\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\classes_4.dex
+base.5=C\:\\Users\\user\\oxycare-mobile\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\classes_3.dex
+base.4=C\:\\Users\\user\\oxycare-mobile\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\classes_2.dex
+base.3=C\:\\Users\\user\\oxycare-mobile\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\classes_1.dex
+base.2=C\:\\Users\\user\\oxycare-mobile\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\classes_0.dex
+base.1=C\:\\Users\\user\\oxycare-mobile\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+base.0=C\:\\Users\\user\\oxycare-mobile\\android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 path.8=classes_6.dex
 path.7=classes_5.dex
 path.6=classes_4.dex

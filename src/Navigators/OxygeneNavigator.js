@@ -4,7 +4,7 @@ import { createStackNavigator } from '@react-navigation/stack';
 import Contacts from "../Containers/Contacts";
 import Home from "../Containers/Home";
 import About from "../Containers/About";
-
+import { AddOxy } from "../Containers/AddOxygen/index";
 const Stack = createStackNavigator();
 export function OxygeneNavigator({ props, navigation }) {
   return (
@@ -14,31 +14,40 @@ export function OxygeneNavigator({ props, navigation }) {
       screenOptions={({ route, navigation }) => ({
         gestureEnabled: false,
         cardOverlayEnabled: true,
-         headerStatusBarHeight:
+        headerStatusBarHeight:
           navigation.dangerouslyGetState().routes.indexOf(route) === 0
             ? 0
             : undefined
       })}
       mode="modal"
     >
-        <Stack.Screen name="Home" component={Home}
-       options={{ header: () => null,headerTitle:null }}
-         />
+      <Stack.Screen name="Home" component={Home}
+        options={{ header: () => null, headerTitle: null }}
+      />
       <Stack.Screen name="Contacts" component={Contacts}
         options={{
           headerTintColor: '#5faae1',
-          headerTitleStyle: {color:'black'},
-          title: "Contacts", headerTitle: "Contacts" }}
-         />
-          <Stack.Screen name="About" component={About}
+          headerTitleStyle: { color: 'black' },
+          title: "Contacts", headerTitle: "Contacts"
+        }}
+      />
+      <Stack.Screen name="Ajouter" component={AddOxy}
         options={{
           headerTintColor: '#5faae1',
-          headerTitleStyle: {color:'black'},
-          title: "About", headerTitle: "About" }}
-         />
-         
-      
+          headerTitleStyle: { color: 'black' },
+          title: "Ajouter element", headerTitle: "Ajouter"
+        }}
+      />
+      <Stack.Screen name="About" component={About}
+        options={{
+          headerTintColor: '#5faae1',
+          headerTitleStyle: { color: 'black' },
+          title: "About", headerTitle: "About"
+        }}
+      />
+
+
     </Stack.Navigator>
-  
+
   )
 }

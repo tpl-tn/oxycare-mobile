@@ -10,16 +10,16 @@ export default class App extends Component {
   render() {
     return (
       <NavigationContainer
-      ref={(navigatorRef) => {
-       
-      }}
-     >
-      <DrawerStack
-      // ref={(navigatorRef) => { Navigation.setTopLevelNavigator(navigatorRef) }}
-      ></DrawerStack>
+        ref={(navigatorRef) => {
 
-      {/* </SafeAreaView>  */}
-    </NavigationContainer>
+        }}
+      >
+        <DrawerStack
+        // ref={(navigatorRef) => { Navigation.setTopLevelNavigator(navigatorRef) }}
+        ></DrawerStack>
+
+        {/* </SafeAreaView>  */}
+      </NavigationContainer>
     )
   }
 }
