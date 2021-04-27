@@ -2,4 +2,6 @@
 a mobile android version of oxycare.
 <br />
 <br />
-![menu](oxycare_menu.jpg)
+<img src="oxycare_menu.png"
+     alt="oxycare"
+     style="float: left; margin-right: 10px;" />
