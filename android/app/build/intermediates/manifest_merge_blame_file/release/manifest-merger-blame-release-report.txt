@@ -1,0 +1,101 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.oxygenetn"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- Include required permissions for Google Maps API to run. -->
+12-->[:react-native-maps] /Users/farhatiriadh/workspace/oxycare/MobileApp/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-81
+12-->[:react-native-maps] /Users/farhatiriadh/workspace/oxycare/MobileApp/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:22-78
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[com.google.android.gms:play-services-maps:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/faf3edd0a0a40b32e6c32885cc662e42/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+13-->[com.google.android.gms:play-services-maps:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/faf3edd0a0a40b32e6c32885cc662e42/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:22-76
+14
+15    <uses-feature
+15-->[com.google.android.gms:play-services-maps:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/faf3edd0a0a40b32e6c32885cc662e42/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+16        android:glEsVersion="0x00020000"
+16-->[com.google.android.gms:play-services-maps:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/faf3edd0a0a40b32e6c32885cc662e42/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+17        android:required="true" />
+17-->[com.google.android.gms:play-services-maps:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/faf3edd0a0a40b32e6c32885cc662e42/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+18
+19    <application
+19-->/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/src/main/AndroidManifest.xml:6:5-28:19
+20        android:name="com.oxygenetn.MainApplication"
+20-->/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/src/main/AndroidManifest.xml:7:7-38
+21        android:allowBackup="false"
+21-->/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/src/main/AndroidManifest.xml:11:7-34
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.2.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/1a3234669c33f9f4072a7bfc84af0390/core-1.2.0/AndroidManifest.xml:24:18-86
+23        android:icon="@mipmap/ic_launcher"
+23-->/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/src/main/AndroidManifest.xml:9:7-41
+24        android:label="@string/app_name"
+24-->/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/src/main/AndroidManifest.xml:8:7-39
+25        android:roundIcon="@mipmap/ic_launcher"
+25-->/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/src/main/AndroidManifest.xml:10:7-46
+26        android:theme="@style/AppTheme" >
+26-->/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/src/main/AndroidManifest.xml:12:7-38
+27        <meta-data
+27-->/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/src/main/AndroidManifest.xml:13:7-15:63
+28            android:name="com.google.android.geo.API_KEY"
+28-->/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/src/main/AndroidManifest.xml:14:6-51
+29            android:value="AIzaSyBCOAxvSmwT9aqE1J8m4SBTf8OJKLPMvCg" />
+29-->/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/src/main/AndroidManifest.xml:15:6-61
+30
+31        <activity
+31-->/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/src/main/AndroidManifest.xml:17:7-27:18
+32            android:name="com.oxygenetn.MainActivity"
+32-->/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/src/main/AndroidManifest.xml:18:9-37
+33            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+33-->/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/src/main/AndroidManifest.xml:20:9-86
+34            android:label="@string/app_name"
+34-->/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/src/main/AndroidManifest.xml:19:9-41
+35            android:launchMode="singleTask"
+35-->/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/src/main/AndroidManifest.xml:21:9-40
+36            android:windowSoftInputMode="adjustResize" >
+36-->/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/src/main/AndroidManifest.xml:22:9-51
+37            <intent-filter>
+37-->/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/src/main/AndroidManifest.xml:23:9-26:25
+38                <action android:name="android.intent.action.MAIN" />
+38-->/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/src/main/AndroidManifest.xml:24:13-65
+38-->/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/src/main/AndroidManifest.xml:24:21-62
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/src/main/AndroidManifest.xml:25:13-73
+40-->/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/src/main/AndroidManifest.xml:25:23-70
+41            </intent-filter>
+42        </activity>
+43        <!-- Needs to be explicitly declared on P+ -->
+44        <uses-library
+44-->[com.google.android.gms:play-services-maps:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/faf3edd0a0a40b32e6c32885cc662e42/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+45            android:name="org.apache.http.legacy"
+45-->[com.google.android.gms:play-services-maps:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/faf3edd0a0a40b32e6c32885cc662e42/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+46            android:required="false" />
+46-->[com.google.android.gms:play-services-maps:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/faf3edd0a0a40b32e6c32885cc662e42/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+47
+48        <activity
+48-->[com.google.android.gms:play-services-base:17.2.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/b14783c54f0a0561f542100569b19f88/jetified-play-services-base-17.2.1/AndroidManifest.xml:23:9-26:75
+49            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+49-->[com.google.android.gms:play-services-base:17.2.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/b14783c54f0a0561f542100569b19f88/jetified-play-services-base-17.2.1/AndroidManifest.xml:24:13-79
+50            android:exported="false"
+50-->[com.google.android.gms:play-services-base:17.2.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/b14783c54f0a0561f542100569b19f88/jetified-play-services-base-17.2.1/AndroidManifest.xml:25:13-37
+51            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+51-->[com.google.android.gms:play-services-base:17.2.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/b14783c54f0a0561f542100569b19f88/jetified-play-services-base-17.2.1/AndroidManifest.xml:26:13-72
+52
+53        <meta-data
+53-->[com.google.android.gms:play-services-basement:17.2.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/e6798b60eadf3bac0dda44bbd7c5242e/jetified-play-services-basement-17.2.1/AndroidManifest.xml:23:9-25:69
+54            android:name="com.google.android.gms.version"
+54-->[com.google.android.gms:play-services-basement:17.2.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/e6798b60eadf3bac0dda44bbd7c5242e/jetified-play-services-basement-17.2.1/AndroidManifest.xml:24:13-58
+55            android:value="@integer/google_play_services_version" />
+55-->[com.google.android.gms:play-services-basement:17.2.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/e6798b60eadf3bac0dda44bbd7c5242e/jetified-play-services-basement-17.2.1/AndroidManifest.xml:25:13-66
+56    </application>
+57
+58</manifest>

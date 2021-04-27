@@ -1,0 +1,14 @@
+com/oxygenetn/MainApplication.java
+ com.oxygenetn.MainApplication
+ com.oxygenetn.MainApplication$1
+com/oxygenetn/ReactNativeFlipper.java
+ com.oxygenetn.ReactNativeFlipper
+ com.oxygenetn.ReactNativeFlipper$1
+ com.oxygenetn.ReactNativeFlipper$2
+ com.oxygenetn.ReactNativeFlipper$2$1
+com/oxygenetn/BuildConfig.java
+ com.oxygenetn.BuildConfig
+com/oxygenetn/MainActivity.java
+ com.oxygenetn.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
