@@ -1,0 +1,1 @@
+{"version":3,"sources":["ScreenPropsContext.tsx"],"names":["React","createContext","undefined"],"mappings":"AAAA,OAAO,KAAKA,KAAZ,MAAuB,OAAvB;AAEA,4BAAeA,KAAK,CAACC,aAAN,CAA6BC,SAA7B,CAAf","sourcesContent":["import * as React from 'react';\n\nexport default React.createContext<unknown>(undefined);\n"]}

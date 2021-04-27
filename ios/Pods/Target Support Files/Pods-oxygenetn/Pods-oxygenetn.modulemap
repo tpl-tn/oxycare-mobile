@@ -1,0 +1,6 @@
+module Pods_oxygenetn {
+  umbrella header "Pods-oxygenetn-umbrella.h"
+
+  export *
+  module * { export * }
+}

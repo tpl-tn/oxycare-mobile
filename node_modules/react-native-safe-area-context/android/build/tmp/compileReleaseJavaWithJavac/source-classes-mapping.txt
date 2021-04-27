@@ -1,0 +1,33 @@
+com/th3rdwave/safeareacontext/SerializationUtils.java
+ com.th3rdwave.safeareacontext.SerializationUtils
+com/th3rdwave/safeareacontext/BuildConfig.java
+ com.th3rdwave.safeareacontext.BuildConfig
+com/th3rdwave/safeareacontext/SafeAreaProviderManager.java
+ com.th3rdwave.safeareacontext.SafeAreaProviderManager
+ com.th3rdwave.safeareacontext.SafeAreaProviderManager$1
+com/th3rdwave/safeareacontext/SafeAreaViewMode.java
+ com.th3rdwave.safeareacontext.SafeAreaViewMode
+com/th3rdwave/safeareacontext/SafeAreaUtils.java
+ com.th3rdwave.safeareacontext.SafeAreaUtils
+com/th3rdwave/safeareacontext/SafeAreaView.java
+ com.th3rdwave.safeareacontext.SafeAreaView
+ com.th3rdwave.safeareacontext.SafeAreaView$1
+com/th3rdwave/safeareacontext/SafeAreaViewLocalData.java
+ com.th3rdwave.safeareacontext.SafeAreaViewLocalData
+com/th3rdwave/safeareacontext/EdgeInsets.java
+ com.th3rdwave.safeareacontext.EdgeInsets
+com/th3rdwave/safeareacontext/SafeAreaViewManager.java
+ com.th3rdwave.safeareacontext.SafeAreaViewManager
+com/th3rdwave/safeareacontext/SafeAreaProvider.java
+ com.th3rdwave.safeareacontext.SafeAreaProvider
+ com.th3rdwave.safeareacontext.SafeAreaProvider$OnInsetsChangeListener
+com/th3rdwave/safeareacontext/SafeAreaViewShadowNode.java
+ com.th3rdwave.safeareacontext.SafeAreaViewShadowNode
+com/th3rdwave/safeareacontext/SafeAreaContextPackage.java
+ com.th3rdwave.safeareacontext.SafeAreaContextPackage
+com/th3rdwave/safeareacontext/SafeAreaViewEdges.java
+ com.th3rdwave.safeareacontext.SafeAreaViewEdges
+com/th3rdwave/safeareacontext/Rect.java
+ com.th3rdwave.safeareacontext.Rect
+com/th3rdwave/safeareacontext/InsetsChangeEvent.java
+ com.th3rdwave.safeareacontext.InsetsChangeEvent

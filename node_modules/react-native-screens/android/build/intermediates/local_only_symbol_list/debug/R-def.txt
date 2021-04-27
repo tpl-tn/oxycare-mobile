@@ -1,0 +1,6 @@
+R_DEF: Internal format may change without notice
+local
+anim rns_slide_in_from_left
+anim rns_slide_in_from_right
+anim rns_slide_out_to_left
+anim rns_slide_out_to_right
