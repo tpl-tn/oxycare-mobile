@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml",
+            "outputFile": "/Users/farhatiriadh/workspace/oxycare-mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml",
             "map": [
                 {
                     "source": "/Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/b14783c54f0a0561f542100569b19f88/jetified-play-services-base-17.2.1/res/values-da/values.xml",

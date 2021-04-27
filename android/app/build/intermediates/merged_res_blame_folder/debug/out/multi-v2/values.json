@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/farhatiriadh/workspace/oxycare-mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/8850ed829d25245e8497182323bc73d2/jetified-drawee-2.2.0/res/values/values.xml",
@@ -135,37 +135,22 @@
                     }
                 },
                 {
-                    "source": "/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
+                    "source": "/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/res/values/styles.xml",
                     "from": {
-                        "startLines": "6,8",
-                        "startColumns": "4,4",
-                        "startOffsets": "156,262",
-                        "endColumns": "63,68",
-                        "endOffsets": "215,326"
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "234"
                     },
                     "to": {
-                        "startLines": "645,646",
-                        "startColumns": "4,4",
-                        "startOffsets": "41265,41329",
-                        "endColumns": "63,68",
-                        "endOffsets": "41324,41393"
-                    }
-                },
-                {
-                    "source": "/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
+                        "startLines": "829",
                         "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "46",
-                        "endOffsets": "58"
-                    },
-                    "to": {
-                        "startLines": "681",
-                        "startColumns": "4",
-                        "startOffsets": "43784",
-                        "endColumns": "46",
-                        "endOffsets": "43826"
+                        "startOffsets": "61587",
+                        "endLines": "832",
+                        "endColumns": "12",
+                        "endOffsets": "61767"
                     }
                 },
                 {
@@ -241,22 +226,20 @@
                     }
                 },
                 {
-                    "source": "/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/farhatiriadh/workspace/oxycare-mobile/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
                     "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "234"
+                        "startLines": "6,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "156,262",
+                        "endColumns": "63,68",
+                        "endOffsets": "215,326"
                     },
                     "to": {
-                        "startLines": "829",
-                        "startColumns": "4",
-                        "startOffsets": "61587",
-                        "endLines": "832",
-                        "endColumns": "12",
-                        "endOffsets": "61767"
+                        "startLines": "645,646",
+                        "startColumns": "4,4",
+                        "startOffsets": "41265,41329",
+                        "endColumns": "63,68",
+                        "endOffsets": "41324,41393"
                     }
                 },
                 {
@@ -352,6 +335,23 @@
                         "endLines": "111,112,537,570,571,572,573,574,595,622,623,680,684,685,686,687,688,689,690,691,692,693,694,695,696,697,698,699,700,701,702,703,704,705,706,707,708,709,710,711,712,713,719,742,745,746,747,748,749,750,790,791,792,793,794,796,797,798,799,800,801,802,804,805,806,807,816,820,2662,2665,2677,2681,3014,3017,3253,3283,3292,3299,3328,3331,3334,3434,3440,4392",
                         "endColumns": "62,62,50,47,48,47,48,48,42,53,47,72,74,122,95,88,107,116,119,119,101,102,110,106,102,110,168,167,116,103,112,155,107,112,90,110,168,97,126,124,94,106,79,75,72,86,70,70,77,79,85,83,71,81,80,83,76,86,84,78,74,72,76,77,72,77,10,10,12,12,10,10,12,12,25,34,10,10,10,10,10,12,12,10",
                         "endOffsets": "6825,6888,35361,37319,37368,37416,37465,37514,38555,39894,39942,43779,44182,44305,44401,44490,44598,44715,44835,44955,45057,45160,45271,45378,45481,45592,45761,45929,46046,46150,46263,46419,46527,46640,46731,46842,47011,47109,47236,47361,47456,47563,48070,50947,51327,51414,51485,51556,51634,51714,58773,58857,58929,59011,59092,59229,59306,59393,59478,59557,59632,59705,59853,59931,60004,60082,60772,61020,180769,180960,181480,181686,204393,204582,221260,223451,223989,224407,225927,226104,226283,234528,234893,296511"
+                    }
+                },
+                {
+                    "source": "/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "46",
+                        "endOffsets": "58"
+                    },
+                    "to": {
+                        "startLines": "681",
+                        "startColumns": "4",
+                        "startOffsets": "43784",
+                        "endColumns": "46",
+                        "endOffsets": "43826"
                     }
                 },
                 {

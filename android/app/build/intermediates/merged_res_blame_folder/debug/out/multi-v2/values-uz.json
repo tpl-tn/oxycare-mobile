@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml",
+            "outputFile": "/Users/farhatiriadh/workspace/oxycare-mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml",
             "map": [
                 {
                     "source": "/Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/1a3234669c33f9f4072a7bfc84af0390/core-1.2.0/res/values-uz/values-uz.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w480dp-port-v13/values-w480dp-port-v13.xml",
+            "outputFile": "/Users/farhatiriadh/workspace/oxycare-mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w480dp-port-v13/values-w480dp-port-v13.xml",
             "map": [
                 {
                     "source": "/Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/747f53e70e3372703b3570ac3dfbfb03/material-1.1.0/res/values-w480dp-port-v13/values-w480dp-port-v13.xml",
