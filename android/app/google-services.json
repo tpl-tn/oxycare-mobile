@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "293476204423",
+    "project_id": "oxygenetn",
+    "storage_bucket": "oxygenetn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293476204423:android:130f9f662bae89618edd22",
+        "android_client_info": {
+          "package_name": "com.oxygenetn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293476204423-ufia63hks4jn28nnmmpuvabune06kgcs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oxygenetn",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "293476204423-hofl4dfk643rbcmq263ui72rln7t7v15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCOAxvSmwT9aqE1J8m4SBTf8OJKLPMvCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293476204423-hofl4dfk643rbcmq263ui72rln7t7v15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

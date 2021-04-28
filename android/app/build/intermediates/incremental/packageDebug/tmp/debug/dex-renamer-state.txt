@@ -1,6 +1,8 @@
-#Tue Apr 27 14:34:42 CET 2021
+#Wed Apr 28 14:20:10 CET 2021
 path.1=classes.dex
 path.0=classes.dex
+renamed.10=classes11.dex
+renamed.9=classes10.dex
 renamed.8=classes9.dex
 renamed.7=classes8.dex
 renamed.6=classes7.dex
@@ -8,6 +10,7 @@ renamed.5=classes6.dex
 renamed.4=classes5.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
+base.9=/Users/farhatiriadh/workspace/oxycare-mobile/android/app/build/intermediates/dex/debug/mergeLibDexDebug/classes_7.dex
 renamed.1=classes2.dex
 base.8=/Users/farhatiriadh/workspace/oxycare-mobile/android/app/build/intermediates/dex/debug/mergeLibDexDebug/classes_6.dex
 renamed.0=classes.dex
@@ -19,6 +22,9 @@ base.3=/Users/farhatiriadh/workspace/oxycare-mobile/android/app/build/intermedia
 base.2=/Users/farhatiriadh/workspace/oxycare-mobile/android/app/build/intermediates/dex/debug/mergeLibDexDebug/classes_0.dex
 base.1=/Users/farhatiriadh/workspace/oxycare-mobile/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
 base.0=/Users/farhatiriadh/workspace/oxycare-mobile/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.10=/Users/farhatiriadh/workspace/oxycare-mobile/android/app/build/intermediates/dex/debug/mergeLibDexDebug/classes_8.dex
+path.10=classes_8.dex
+path.9=classes_7.dex
 path.8=classes_6.dex
 path.7=classes_5.dex
 path.6=classes_4.dex
