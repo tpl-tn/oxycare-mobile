@@ -13,6 +13,10 @@ import java.util.ArrayList;
 
 // @react-native-community/masked-view
 import org.reactnative.maskedview.RNCMaskedViewPackage;
+// @react-native-google-signin/google-signin
+import co.apptailor.googlesignin.RNGoogleSigninPackage;
+// react-native-config
+import com.lugg.ReactNativeConfig.ReactNativeConfigPackage;
 // react-native-gesture-handler
 import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;
 // react-native-maps
@@ -71,6 +75,8 @@ public class PackageList {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(mConfig),
       new RNCMaskedViewPackage(),
+      new RNGoogleSigninPackage(),
+      new ReactNativeConfigPackage(),
       new RNGestureHandlerPackage(),
       new MapsPackage(),
       new ReanimatedPackage(),

@@ -1,8 +1,8 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.oxygenetn"
-4    android:versionCode="1"
-5    android:versionName="1.0" >
+4    android:versionCode="101"
+5    android:versionName="0.0.1" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
@@ -15,97 +15,201 @@
 12-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:4:5-67
 12-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:4:22-64
 13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-13-->[com.facebook.flipper:flipper:0.75.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/a8f6015f96666ab8d93bfe5b64998bc8/jetified-flipper-0.75.1/AndroidManifest.xml:16:5-76
-13-->[com.facebook.flipper:flipper:0.75.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/a8f6015f96666ab8d93bfe5b64998bc8/jetified-flipper-0.75.1/AndroidManifest.xml:16:22-73
+13-->[com.facebook.flipper:flipper:0.75.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/3f1c7afbafe498777bc68f7541730dd3/jetified-flipper-0.75.1/AndroidManifest.xml:16:5-76
+13-->[com.facebook.flipper:flipper:0.75.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/3f1c7afbafe498777bc68f7541730dd3/jetified-flipper-0.75.1/AndroidManifest.xml:16:22-73
 14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- Include required permissions for Google Maps API to run. -->
 14-->[:react-native-maps] /Users/farhatiriadh/workspace/oxycare-mobile/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
 14-->[:react-native-maps] /Users/farhatiriadh/workspace/oxycare-mobile/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-78
 15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-15-->[com.google.android.gms:play-services-maps:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/faf3edd0a0a40b32e6c32885cc662e42/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
-15-->[com.google.android.gms:play-services-maps:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/faf3edd0a0a40b32e6c32885cc662e42/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:22-76
+15-->[com.google.android.gms:play-services-maps:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/9110924fa5aa38f8594591ae482ee47f/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+15-->[com.google.android.gms:play-services-maps:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/9110924fa5aa38f8594591ae482ee47f/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:22-76
 16
 17    <uses-feature
-17-->[com.google.android.gms:play-services-maps:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/faf3edd0a0a40b32e6c32885cc662e42/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+17-->[com.google.android.gms:play-services-maps:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/9110924fa5aa38f8594591ae482ee47f/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
 18        android:glEsVersion="0x00020000"
-18-->[com.google.android.gms:play-services-maps:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/faf3edd0a0a40b32e6c32885cc662e42/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+18-->[com.google.android.gms:play-services-maps:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/9110924fa5aa38f8594591ae482ee47f/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
 19        android:required="true" />
-19-->[com.google.android.gms:play-services-maps:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/faf3edd0a0a40b32e6c32885cc662e42/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+19-->[com.google.android.gms:play-services-maps:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/9110924fa5aa38f8594591ae482ee47f/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
 20
-21    <application
-21-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:6:5-28:19
-22        android:name="com.oxygenetn.MainApplication"
-22-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:7:7-38
-23        android:allowBackup="false"
-23-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:11:7-34
-24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-24-->[androidx.core:core:1.2.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/1a3234669c33f9f4072a7bfc84af0390/core-1.2.0/AndroidManifest.xml:24:18-86
-25        android:debuggable="true"
-26        android:icon="@mipmap/ic_launcher"
-26-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:9:7-41
-27        android:label="@string/app_name"
-27-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:8:7-39
-28        android:roundIcon="@mipmap/ic_launcher"
-28-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:10:7-46
-29        android:theme="@style/AppTheme"
-29-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:12:7-38
-30        android:usesCleartextTraffic="true" >
-30-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/debug/AndroidManifest.xml:8:9-44
-31        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
-31-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/debug/AndroidManifest.xml:11:9-86
-31-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/debug/AndroidManifest.xml:11:19-83
-32
-33        <meta-data
-33-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:13:7-15:63
-34            android:name="com.google.android.geo.API_KEY"
-34-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:14:6-51
-35            android:value="AIzaSyBCOAxvSmwT9aqE1J8m4SBTf8OJKLPMvCg" />
-35-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:15:6-61
-36
-37        <activity
-37-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:17:7-27:18
-38            android:name="com.oxygenetn.MainActivity"
-38-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:18:9-37
-39            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
-39-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:20:9-86
-40            android:label="@string/app_name"
-40-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:19:9-41
-41            android:launchMode="singleTask"
-41-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:21:9-40
-42            android:windowSoftInputMode="adjustResize" >
-42-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:22:9-51
-43            <intent-filter>
-43-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:23:9-26:25
-44                <action android:name="android.intent.action.MAIN" />
-44-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:24:13-65
-44-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:24:21-62
-45
-46                <category android:name="android.intent.category.LAUNCHER" />
-46-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:25:13-73
-46-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:25:23-70
-47            </intent-filter>
-48        </activity> <!-- Needs to be explicitly declared on P+ -->
-49        <uses-library
-49-->[com.google.android.gms:play-services-maps:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/faf3edd0a0a40b32e6c32885cc662e42/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
-50            android:name="org.apache.http.legacy"
-50-->[com.google.android.gms:play-services-maps:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/faf3edd0a0a40b32e6c32885cc662e42/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
-51            android:required="false" />
-51-->[com.google.android.gms:play-services-maps:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/faf3edd0a0a40b32e6c32885cc662e42/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
-52
-53        <activity
-53-->[com.google.android.gms:play-services-base:17.2.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/b14783c54f0a0561f542100569b19f88/jetified-play-services-base-17.2.1/AndroidManifest.xml:23:9-26:75
-54            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-54-->[com.google.android.gms:play-services-base:17.2.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/b14783c54f0a0561f542100569b19f88/jetified-play-services-base-17.2.1/AndroidManifest.xml:24:13-79
-55            android:exported="false"
-55-->[com.google.android.gms:play-services-base:17.2.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/b14783c54f0a0561f542100569b19f88/jetified-play-services-base-17.2.1/AndroidManifest.xml:25:13-37
-56            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-56-->[com.google.android.gms:play-services-base:17.2.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/b14783c54f0a0561f542100569b19f88/jetified-play-services-base-17.2.1/AndroidManifest.xml:26:13-72
-57
-58        <meta-data
-58-->[com.google.android.gms:play-services-basement:17.2.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/e6798b60eadf3bac0dda44bbd7c5242e/jetified-play-services-basement-17.2.1/AndroidManifest.xml:23:9-25:69
-59            android:name="com.google.android.gms.version"
-59-->[com.google.android.gms:play-services-basement:17.2.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/e6798b60eadf3bac0dda44bbd7c5242e/jetified-play-services-basement-17.2.1/AndroidManifest.xml:24:13-58
-60            android:value="@integer/google_play_services_version" />
-60-->[com.google.android.gms:play-services-basement:17.2.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/e6798b60eadf3bac0dda44bbd7c5242e/jetified-play-services-basement-17.2.1/AndroidManifest.xml:25:13-66
-61    </application>
-62
-63</manifest>
+21    <uses-permission android:name="android.permission.WAKE_LOCK" />
+21-->[com.google.android.gms:play-services-measurement-api:18.0.3] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/952b810127db0d9415b60d3f48442ef5/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:24:5-68
+21-->[com.google.android.gms:play-services-measurement-api:18.0.3] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/952b810127db0d9415b60d3f48442ef5/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:24:22-65
+22    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+22-->[com.google.android.gms:play-services-measurement:18.0.3] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/e9b08aecd8d9cc1eeacb801e233758db/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:26:5-110
+22-->[com.google.android.gms:play-services-measurement:18.0.3] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/e9b08aecd8d9cc1eeacb801e233758db/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:26:22-107
+23
+24    <application
+24-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:6:5-28:19
+25        android:name="com.oxygenetn.MainApplication"
+25-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:7:7-38
+26        android:allowBackup="false"
+26-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:11:7-34
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.2.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/8b719277ab03e8adbfe1b89e4b72d1d4/core-1.2.0/AndroidManifest.xml:24:18-86
+28        android:debuggable="true"
+29        android:icon="@mipmap/ic_launcher"
+29-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:9:7-41
+30        android:label="@string/app_name"
+30-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:8:7-39
+31        android:roundIcon="@mipmap/ic_launcher"
+31-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:10:7-46
+32        android:theme="@style/AppTheme"
+32-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:12:7-38
+33        android:usesCleartextTraffic="true" >
+33-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/debug/AndroidManifest.xml:8:9-44
+34        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+34-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/debug/AndroidManifest.xml:11:9-86
+34-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/debug/AndroidManifest.xml:11:19-83
+35
+36        <meta-data
+36-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:13:7-15:63
+37            android:name="com.google.android.geo.API_KEY"
+37-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:14:6-51
+38            android:value="AIzaSyBCOAxvSmwT9aqE1J8m4SBTf8OJKLPMvCg" />
+38-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:15:6-61
+39
+40        <activity
+40-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:17:7-27:18
+41            android:name="com.oxygenetn.MainActivity"
+41-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:18:9-37
+42            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+42-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:20:9-86
+43            android:label="@string/app_name"
+43-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:19:9-41
+44            android:launchMode="singleTask"
+44-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:21:9-40
+45            android:windowSoftInputMode="adjustResize" >
+45-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:22:9-51
+46            <intent-filter>
+46-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:23:9-26:25
+47                <action android:name="android.intent.action.MAIN" />
+47-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:24:13-65
+47-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:24:21-62
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:25:13-73
+49-->/Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/main/AndroidManifest.xml:25:23-70
+50            </intent-filter>
+51        </activity> <!-- Needs to be explicitly declared on P+ -->
+52        <uses-library
+52-->[com.google.android.gms:play-services-maps:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/9110924fa5aa38f8594591ae482ee47f/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+53            android:name="org.apache.http.legacy"
+53-->[com.google.android.gms:play-services-maps:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/9110924fa5aa38f8594591ae482ee47f/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+54            android:required="false" />
+54-->[com.google.android.gms:play-services-maps:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/9110924fa5aa38f8594591ae482ee47f/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+55
+56        <activity
+56-->[com.google.android.gms:play-services-auth:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/0726af418c5a18c635cfcb348d60168f/jetified-play-services-auth-17.0.0/AndroidManifest.xml:23:9-27:75
+57            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+57-->[com.google.android.gms:play-services-auth:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/0726af418c5a18c635cfcb348d60168f/jetified-play-services-auth-17.0.0/AndroidManifest.xml:24:13-93
+58            android:excludeFromRecents="true"
+58-->[com.google.android.gms:play-services-auth:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/0726af418c5a18c635cfcb348d60168f/jetified-play-services-auth-17.0.0/AndroidManifest.xml:25:13-46
+59            android:exported="false"
+59-->[com.google.android.gms:play-services-auth:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/0726af418c5a18c635cfcb348d60168f/jetified-play-services-auth-17.0.0/AndroidManifest.xml:26:13-37
+60            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+60-->[com.google.android.gms:play-services-auth:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/0726af418c5a18c635cfcb348d60168f/jetified-play-services-auth-17.0.0/AndroidManifest.xml:27:13-72
+61        <!--
+62            Service handling Google Sign-In user revocation. For apps that do not integrate with
+63            Google Sign-In, this service will never be started.
+64        -->
+65        <service
+65-->[com.google.android.gms:play-services-auth:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/0726af418c5a18c635cfcb348d60168f/jetified-play-services-auth-17.0.0/AndroidManifest.xml:33:9-36:110
+66            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+66-->[com.google.android.gms:play-services-auth:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/0726af418c5a18c635cfcb348d60168f/jetified-play-services-auth-17.0.0/AndroidManifest.xml:34:13-89
+67            android:exported="true"
+67-->[com.google.android.gms:play-services-auth:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/0726af418c5a18c635cfcb348d60168f/jetified-play-services-auth-17.0.0/AndroidManifest.xml:35:13-36
+68            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+68-->[com.google.android.gms:play-services-auth:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/0726af418c5a18c635cfcb348d60168f/jetified-play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
+69
+70        <activity
+70-->[com.google.android.gms:play-services-base:17.2.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/ec0220319a15ee8e128ddcf9026197ec/jetified-play-services-base-17.2.1/AndroidManifest.xml:23:9-26:75
+71            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+71-->[com.google.android.gms:play-services-base:17.2.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/ec0220319a15ee8e128ddcf9026197ec/jetified-play-services-base-17.2.1/AndroidManifest.xml:24:13-79
+72            android:exported="false"
+72-->[com.google.android.gms:play-services-base:17.2.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/ec0220319a15ee8e128ddcf9026197ec/jetified-play-services-base-17.2.1/AndroidManifest.xml:25:13-37
+73            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+73-->[com.google.android.gms:play-services-base:17.2.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/ec0220319a15ee8e128ddcf9026197ec/jetified-play-services-base-17.2.1/AndroidManifest.xml:26:13-72
+74
+75        <service
+75-->[com.google.android.gms:play-services-measurement-api:18.0.3] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/952b810127db0d9415b60d3f48442ef5/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:27:9-33:19
+76            android:name="com.google.firebase.components.ComponentDiscoveryService"
+76-->[com.google.android.gms:play-services-measurement-api:18.0.3] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/952b810127db0d9415b60d3f48442ef5/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:28:13-84
+77            android:directBootAware="true"
+77-->[com.google.firebase:firebase-common:19.5.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/d3e6246e707c39261af636f804f328d7/jetified-firebase-common-19.5.0/AndroidManifest.xml:35:13-43
+78            android:exported="false" >
+78-->[com.google.android.gms:play-services-measurement-api:18.0.3] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/952b810127db0d9415b60d3f48442ef5/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:29:13-37
+79            <meta-data
+79-->[com.google.android.gms:play-services-measurement-api:18.0.3] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/952b810127db0d9415b60d3f48442ef5/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:30:13-32:85
+80                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+80-->[com.google.android.gms:play-services-measurement-api:18.0.3] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/952b810127db0d9415b60d3f48442ef5/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:31:17-139
+81                android:value="com.google.firebase.components.ComponentRegistrar" />
+81-->[com.google.android.gms:play-services-measurement-api:18.0.3] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/952b810127db0d9415b60d3f48442ef5/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:32:17-82
+82            <meta-data
+82-->[com.google.firebase:firebase-installations:16.3.5] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/39d95f58b3bc866a750e958dfccc864c/jetified-firebase-installations-16.3.5/AndroidManifest.xml:18:13-20:85
+83                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+83-->[com.google.firebase:firebase-installations:16.3.5] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/39d95f58b3bc866a750e958dfccc864c/jetified-firebase-installations-16.3.5/AndroidManifest.xml:19:17-127
+84                android:value="com.google.firebase.components.ComponentRegistrar" />
+84-->[com.google.firebase:firebase-installations:16.3.5] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/39d95f58b3bc866a750e958dfccc864c/jetified-firebase-installations-16.3.5/AndroidManifest.xml:20:17-82
+85            <!--
+86                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
+87                clients to use it as well, by defining this registrar in their own core/common library.
+88            -->
+89            <meta-data
+89-->[com.google.firebase:firebase-common:19.5.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/d3e6246e707c39261af636f804f328d7/jetified-firebase-common-19.5.0/AndroidManifest.xml:43:13-45:85
+90                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+90-->[com.google.firebase:firebase-common:19.5.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/d3e6246e707c39261af636f804f328d7/jetified-firebase-common-19.5.0/AndroidManifest.xml:44:17-121
+91                android:value="com.google.firebase.components.ComponentRegistrar" />
+91-->[com.google.firebase:firebase-common:19.5.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/d3e6246e707c39261af636f804f328d7/jetified-firebase-common-19.5.0/AndroidManifest.xml:45:17-82
+92        </service>
+93
+94        <provider
+94-->[com.google.firebase:firebase-common:19.5.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/d3e6246e707c39261af636f804f328d7/jetified-firebase-common-19.5.0/AndroidManifest.xml:26:9-31:39
+95            android:name="com.google.firebase.provider.FirebaseInitProvider"
+95-->[com.google.firebase:firebase-common:19.5.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/d3e6246e707c39261af636f804f328d7/jetified-firebase-common-19.5.0/AndroidManifest.xml:27:13-77
+96            android:authorities="com.oxygenetn.firebaseinitprovider"
+96-->[com.google.firebase:firebase-common:19.5.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/d3e6246e707c39261af636f804f328d7/jetified-firebase-common-19.5.0/AndroidManifest.xml:28:13-72
+97            android:directBootAware="true"
+97-->[com.google.firebase:firebase-common:19.5.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/d3e6246e707c39261af636f804f328d7/jetified-firebase-common-19.5.0/AndroidManifest.xml:29:13-43
+98            android:exported="false"
+98-->[com.google.firebase:firebase-common:19.5.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/d3e6246e707c39261af636f804f328d7/jetified-firebase-common-19.5.0/AndroidManifest.xml:30:13-37
+99            android:initOrder="100" />
+99-->[com.google.firebase:firebase-common:19.5.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/d3e6246e707c39261af636f804f328d7/jetified-firebase-common-19.5.0/AndroidManifest.xml:31:13-36
+100
+101        <receiver
+101-->[com.google.android.gms:play-services-measurement:18.0.3] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/e9b08aecd8d9cc1eeacb801e233758db/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:29:9-33:20
+102            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+102-->[com.google.android.gms:play-services-measurement:18.0.3] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/e9b08aecd8d9cc1eeacb801e233758db/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:30:13-85
+103            android:enabled="true"
+103-->[com.google.android.gms:play-services-measurement:18.0.3] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/e9b08aecd8d9cc1eeacb801e233758db/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:31:13-35
+104            android:exported="false" >
+104-->[com.google.android.gms:play-services-measurement:18.0.3] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/e9b08aecd8d9cc1eeacb801e233758db/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:32:13-37
+105        </receiver>
+106
+107        <service
+107-->[com.google.android.gms:play-services-measurement:18.0.3] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/e9b08aecd8d9cc1eeacb801e233758db/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:35:9-38:40
+108            android:name="com.google.android.gms.measurement.AppMeasurementService"
+108-->[com.google.android.gms:play-services-measurement:18.0.3] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/e9b08aecd8d9cc1eeacb801e233758db/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:36:13-84
+109            android:enabled="true"
+109-->[com.google.android.gms:play-services-measurement:18.0.3] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/e9b08aecd8d9cc1eeacb801e233758db/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:37:13-35
+110            android:exported="false" />
+110-->[com.google.android.gms:play-services-measurement:18.0.3] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/e9b08aecd8d9cc1eeacb801e233758db/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:38:13-37
+111        <service
+111-->[com.google.android.gms:play-services-measurement:18.0.3] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/e9b08aecd8d9cc1eeacb801e233758db/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:39:9-43:72
+112            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+112-->[com.google.android.gms:play-services-measurement:18.0.3] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/e9b08aecd8d9cc1eeacb801e233758db/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:40:13-87
+113            android:enabled="true"
+113-->[com.google.android.gms:play-services-measurement:18.0.3] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/e9b08aecd8d9cc1eeacb801e233758db/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:41:13-35
+114            android:exported="false"
+114-->[com.google.android.gms:play-services-measurement:18.0.3] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/e9b08aecd8d9cc1eeacb801e233758db/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:42:13-37
+115            android:permission="android.permission.BIND_JOB_SERVICE" />
+115-->[com.google.android.gms:play-services-measurement:18.0.3] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/e9b08aecd8d9cc1eeacb801e233758db/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:43:13-69
+116
+117        <meta-data
+117-->[com.google.android.gms:play-services-basement:17.2.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/04608cadf39374ed63175c82f547d3cd/jetified-play-services-basement-17.2.1/AndroidManifest.xml:23:9-25:69
+118            android:name="com.google.android.gms.version"
+118-->[com.google.android.gms:play-services-basement:17.2.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/04608cadf39374ed63175c82f547d3cd/jetified-play-services-basement-17.2.1/AndroidManifest.xml:24:13-58
+119            android:value="@integer/google_play_services_version" />
+119-->[com.google.android.gms:play-services-basement:17.2.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/04608cadf39374ed63175c82f547d3cd/jetified-play-services-basement-17.2.1/AndroidManifest.xml:25:13-66
+120    </application>
+121
+122</manifest>
