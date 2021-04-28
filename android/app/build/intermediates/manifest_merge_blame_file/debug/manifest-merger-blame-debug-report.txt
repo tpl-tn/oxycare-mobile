@@ -46,66 +46,67 @@
 27-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:8:7-39
 28        android:roundIcon="@mipmap/ic_launcher"
 28-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:10:7-46
-29        android:theme="@style/AppTheme"
-29-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:12:7-38
-30        android:usesCleartextTraffic="true" >
-30-->C:\Users\user\oxycare-mobile\android\app\src\debug\AndroidManifest.xml:8:9-44
-31        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
-31-->C:\Users\user\oxycare-mobile\android\app\src\debug\AndroidManifest.xml:11:9-86
-31-->C:\Users\user\oxycare-mobile\android\app\src\debug\AndroidManifest.xml:11:19-83
-32
-33        <meta-data
-33-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:13:7-15:63
-34            android:name="com.google.android.geo.API_KEY"
-34-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:14:6-51
-35            android:value="AIzaSyBCOAxvSmwT9aqE1J8m4SBTf8OJKLPMvCg" />
-35-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:15:6-61
-36
-37        <activity
-37-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:17:7-27:18
-38            android:name="com.oxygenetn.MainActivity"
-38-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:18:9-37
-39            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
-39-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:20:9-86
-40            android:label="@string/app_name"
-40-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:19:9-41
-41            android:launchMode="singleTask"
-41-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:21:9-40
-42            android:windowSoftInputMode="adjustResize" >
-42-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:22:9-51
-43            <intent-filter>
-43-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:23:9-26:25
-44                <action android:name="android.intent.action.MAIN" />
-44-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:24:13-65
-44-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:24:21-62
-45
-46                <category android:name="android.intent.category.LAUNCHER" />
-46-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:25:13-73
-46-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:25:23-70
-47            </intent-filter>
-48        </activity> <!-- Needs to be explicitly declared on P+ -->
-49        <uses-library
-49-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\faf3edd0a0a40b32e6c32885cc662e42\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
-50            android:name="org.apache.http.legacy"
-50-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\faf3edd0a0a40b32e6c32885cc662e42\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
-51            android:required="false" />
-51-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\faf3edd0a0a40b32e6c32885cc662e42\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
-52
-53        <activity
-53-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b14783c54f0a0561f542100569b19f88\jetified-play-services-base-17.2.1\AndroidManifest.xml:23:9-26:75
-54            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-54-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b14783c54f0a0561f542100569b19f88\jetified-play-services-base-17.2.1\AndroidManifest.xml:24:13-79
-55            android:exported="false"
-55-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b14783c54f0a0561f542100569b19f88\jetified-play-services-base-17.2.1\AndroidManifest.xml:25:13-37
-56            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-56-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b14783c54f0a0561f542100569b19f88\jetified-play-services-base-17.2.1\AndroidManifest.xml:26:13-72
-57
-58        <meta-data
-58-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e6798b60eadf3bac0dda44bbd7c5242e\jetified-play-services-basement-17.2.1\AndroidManifest.xml:23:9-25:69
-59            android:name="com.google.android.gms.version"
-59-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e6798b60eadf3bac0dda44bbd7c5242e\jetified-play-services-basement-17.2.1\AndroidManifest.xml:24:13-58
-60            android:value="@integer/google_play_services_version" />
-60-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e6798b60eadf3bac0dda44bbd7c5242e\jetified-play-services-basement-17.2.1\AndroidManifest.xml:25:13-66
-61    </application>
-62
-63</manifest>
+29        android:testOnly="true"
+30        android:theme="@style/AppTheme"
+30-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:12:7-38
+31        android:usesCleartextTraffic="true" >
+31-->C:\Users\user\oxycare-mobile\android\app\src\debug\AndroidManifest.xml:8:9-44
+32        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+32-->C:\Users\user\oxycare-mobile\android\app\src\debug\AndroidManifest.xml:11:9-86
+32-->C:\Users\user\oxycare-mobile\android\app\src\debug\AndroidManifest.xml:11:19-83
+33
+34        <meta-data
+34-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:13:7-15:63
+35            android:name="com.google.android.geo.API_KEY"
+35-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:14:6-51
+36            android:value="AIzaSyBCOAxvSmwT9aqE1J8m4SBTf8OJKLPMvCg" />
+36-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:15:6-61
+37
+38        <activity
+38-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:17:7-27:18
+39            android:name="com.oxygenetn.MainActivity"
+39-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:18:9-37
+40            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+40-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:20:9-86
+41            android:label="@string/app_name"
+41-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:19:9-41
+42            android:launchMode="singleTask"
+42-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:21:9-40
+43            android:windowSoftInputMode="adjustResize" >
+43-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:22:9-51
+44            <intent-filter>
+44-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:23:9-26:25
+45                <action android:name="android.intent.action.MAIN" />
+45-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:24:13-65
+45-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:24:21-62
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:25:13-73
+47-->C:\Users\user\oxycare-mobile\android\app\src\main\AndroidManifest.xml:25:23-70
+48            </intent-filter>
+49        </activity> <!-- Needs to be explicitly declared on P+ -->
+50        <uses-library
+50-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\faf3edd0a0a40b32e6c32885cc662e42\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+51            android:name="org.apache.http.legacy"
+51-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\faf3edd0a0a40b32e6c32885cc662e42\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+52            android:required="false" />
+52-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\faf3edd0a0a40b32e6c32885cc662e42\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+53
+54        <activity
+54-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b14783c54f0a0561f542100569b19f88\jetified-play-services-base-17.2.1\AndroidManifest.xml:23:9-26:75
+55            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+55-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b14783c54f0a0561f542100569b19f88\jetified-play-services-base-17.2.1\AndroidManifest.xml:24:13-79
+56            android:exported="false"
+56-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b14783c54f0a0561f542100569b19f88\jetified-play-services-base-17.2.1\AndroidManifest.xml:25:13-37
+57            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+57-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\b14783c54f0a0561f542100569b19f88\jetified-play-services-base-17.2.1\AndroidManifest.xml:26:13-72
+58
+59        <meta-data
+59-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e6798b60eadf3bac0dda44bbd7c5242e\jetified-play-services-basement-17.2.1\AndroidManifest.xml:23:9-25:69
+60            android:name="com.google.android.gms.version"
+60-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e6798b60eadf3bac0dda44bbd7c5242e\jetified-play-services-basement-17.2.1\AndroidManifest.xml:24:13-58
+61            android:value="@integer/google_play_services_version" />
+61-->[com.google.android.gms:play-services-basement:17.2.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\e6798b60eadf3bac0dda44bbd7c5242e\jetified-play-services-basement-17.2.1\AndroidManifest.xml:25:13-66
+62    </application>
+63
+64</manifest>

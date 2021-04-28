@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/oxygenetn.iml" filepath="$PROJECT_DIR$/.idea/modules/oxygenetn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/oxygenetn.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/oxygenetn.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1893053744/oxygenetn.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1893053744/oxygenetn.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/69633447/oxygenetn.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/69633447/oxygenetn.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/826687244/oxygenetn.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/826687244/oxygenetn.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2087513109/oxygenetn.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/2087513109/oxygenetn.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1150365616/oxygenetn.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1150365616/oxygenetn.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1469273192/oxygenetn.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1469273192/oxygenetn.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1252340849/oxygenetn.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1252340849/oxygenetn.react-native-vector-icons.iml" />
     </modules>
   </component>
 </project>
