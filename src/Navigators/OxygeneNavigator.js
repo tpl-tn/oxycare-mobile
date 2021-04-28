@@ -4,6 +4,7 @@ import { createStackNavigator } from '@react-navigation/stack';
 import Contacts from "../Containers/Contacts";
 import Home from "../Containers/Home";
 import About from "../Containers/About";
+import AuthModal from "../Containers/Auth/AuthModal";
 
 const Stack = createStackNavigator();
 export function OxygeneNavigator({ props, navigation }) {
@@ -21,9 +22,14 @@ export function OxygeneNavigator({ props, navigation }) {
       })}
       mode="modal"
     >
-        <Stack.Screen name="Home" component={Home}
+        <Stack.Screen name="AuthModal" component={AuthModal}
        options={{ header: () => null,headerTitle:null }}
          />
+          <Stack.Screen name="Home" component={Home}
+       options={{ header: () => null,headerTitle:null }}
+         />
+
+
       <Stack.Screen name="Contacts" component={Contacts}
         options={{
           headerTintColor: '#5faae1',

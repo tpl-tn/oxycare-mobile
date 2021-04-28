@@ -2,7 +2,7 @@ import axios from 'axios';
 
 import { Platform } from 'react-native';
 
-
+import Constants from './Constants'
 
 
 class Api {
@@ -26,7 +26,7 @@ class Api {
 
 }
 
-const BaseUrl = new Api("http://example.com");
+const BaseUrl = new Api(Constants.ApiUrl);
 
 
 

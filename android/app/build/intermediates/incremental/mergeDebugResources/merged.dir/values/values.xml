@@ -651,6 +651,8 @@
     <item quantity="one"><ns1:g id="count">%d</ns1:g> new notification</item>
     <item quantity="other"><ns1:g id="count">%d</ns1:g> new notifications</item>
   </plurals>
+    <string name="APP_VERSION" translatable="false">"0.0.1"</string>
+    <string name="ENV" translatable="false">"development"</string>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_up_description">Navigate up</string>
     <string name="abc_action_menu_overflow_description">More options</string>
@@ -736,10 +738,16 @@
     <string name="common_open_on_phone">Open on phone</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="default_web_client_id" translatable="false">293476204423-hofl4dfk643rbcmq263ui72rln7t7v15.apps.googleusercontent.com</string>
     <string name="error_icon_content_description">Error</string>
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
     <string name="fab_transformation_scrim_behavior" translatable="false">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior" translatable="false">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
+    <string name="gcm_defaultSenderId" translatable="false">293476204423</string>
+    <string name="google_api_key" translatable="false">AIzaSyBCOAxvSmwT9aqE1J8m4SBTf8OJKLPMvCg</string>
+    <string name="google_app_id" translatable="false">1:293476204423:android:130f9f662bae89618edd22</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBCOAxvSmwT9aqE1J8m4SBTf8OJKLPMvCg</string>
+    <string name="google_storage_bucket" translatable="false">oxygenetn.appspot.com</string>
     <string name="header_description" translatable="false">Heading</string>
     <string name="hide_bottom_view_on_scroll_behavior" translatable="false">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string description="Content description for an icon that appears in the title area of a dialog" name="icon_content_description">Dialog Icon</string>
@@ -789,11 +797,13 @@
     <string name="path_password_eye_mask_visible" translatable="false">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
     <string name="progressbar_description" translatable="false">Progress Bar</string>
+    <string name="project_id" translatable="false">oxygenetn</string>
     <string name="radiogroup_description" translatable="false">Radio Group</string>
     <string name="rn_tab_description" translatable="false">Tab</string>
     <string name="scrollbar_description" translatable="false">Scroll Bar</string>
     <string name="search_description" translatable="false">Search Field</string>
     <string name="search_menu_title">Search</string>
+    <string name="serveurUrl" translatable="false">"http://localhost"</string>
     <string name="spinbutton_description" translatable="false">Spin Button</string>
     <string name="state_busy_description" translatable="false">busy</string>
     <string name="state_collapsed_description" translatable="false">collapsed</string>
@@ -806,6 +816,7 @@
     <string name="tablist_description" translatable="false">Tab List</string>
     <string name="timer_description" translatable="false">Timer</string>
     <string name="toolbar_description" translatable="false">Tool Bar</string>
+    <string name="webClientId" translatable="false">"293476204423-hofl4dfk643rbcmq263ui72rln7t7v15.apps.googleusercontent.com"</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>

@@ -1,7 +1,14 @@
 apply plugin: "com.android.application"
-
+apply plugin: 'com.google.gms.google-services'
 import com.android.build.OutputFile
 
+
+project.ext.envConfigFiles = [
+    debug: ".env",
+           stagingrelease: ".env.staging",
+        prodrelease: ".env.prod",
+]
+apply from: "../dotenv.gradle"
 /**
  * The react.gradle file registers a task for each build variant (e.g. bundleDebugJsAndAssets
  * and bundleReleaseJsAndAssets).
@@ -118,6 +125,17 @@ def jscFlavor = 'org.webkit:android-jsc:+'
  * on project.ext.react, JavaScript will not be compiled to Hermes Bytecode
  * and the benefits of using Hermes will therefore be sharply reduced.
  */
+
+ext {
+   
+
+    buildVersionCode = {
+        def (major, minor, patch) = project.env.get("APP_VERSION").toLowerCase().replaceAll('-', '').tokenize('.')
+        (major, minor, patch) = [major, minor, patch].collect{it.toInteger()}
+        (major * 1000000) + (minor * 10000) + (patch * 101);
+    }
+}
+
 def enableHermes = project.ext.react.get("enableHermes", false);
 
 android {
@@ -135,7 +153,8 @@ android {
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
-        versionName "1.0"
+        versionCode buildVersionCode()
+          versionName project.env.get("APP_VERSION")
     }
     splits {
         abi {
@@ -192,7 +211,8 @@ android {
 }
 
 dependencies {
-  
+  implementation platform('com.google.firebase:firebase-bom:27.1.0')
+  implementation 'com.google.firebase:firebase-analytics'
     implementation fileTree(dir: "libs", include: ["*.jar"])
     //noinspection GradleDynamicVersion
     implementation "com.facebook.react:react-native:+"  // From node_modules
