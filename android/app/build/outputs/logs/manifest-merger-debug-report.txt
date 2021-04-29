@@ -12,6 +12,7 @@ MERGED from [com.google.firebase:firebase-analytics:18.0.3] /Users/farhatiriadh/
 MERGED from [:react-native-maps] /Users/farhatiriadh/workspace/oxycare-mobile/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
 MERGED from [:react-native-community_masked-view] /Users/farhatiriadh/workspace/oxycare-mobile/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-google-signin_google-signin] /Users/farhatiriadh/workspace/oxycare-mobile/node_modules/@react-native-google-signin/google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:lottie-react-native] /Users/farhatiriadh/workspace/oxycare-mobile/node_modules/lottie-react-native/src/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-config] /Users/farhatiriadh/workspace/oxycare-mobile/node_modules/react-native-config/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-gesture-handler] /Users/farhatiriadh/workspace/oxycare-mobile/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-safe-area-context] /Users/farhatiriadh/workspace/oxycare-mobile/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
@@ -39,6 +40,7 @@ MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/farhatiriadh/.gr
 MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/78df4ba1024f1c17f2edc3806c711979/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/52b5b2db78eeb431d2bfab4593274942/jetified-soloader-2.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/c627699b6dc26bc72b3b505ba5c6bdba/jetified-soloader-0.10.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.airbnb.android:lottie:3.4.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/bb453c2dae4aa8713f9f0f3f19cdecdc/jetified-lottie-3.4.0/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.material:material:1.1.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/5271280b7acdf978fc94ed41430e8d2e/material-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/1b8bd15e4db8486592aed62fdac04bd1/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/fd7cf99005bf13aab6f9dec271a1255a/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
@@ -120,6 +122,8 @@ MERGED from [com.facebook.flipper:flipper:0.75.1] /Users/farhatiriadh/.gradle/ca
 MERGED from [com.facebook.flipper:flipper:0.75.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/3f1c7afbafe498777bc68f7541730dd3/jetified-flipper-0.75.1/AndroidManifest.xml:15:5-67
 MERGED from [:react-native-maps] /Users/farhatiriadh/workspace/oxycare-mobile/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
 MERGED from [:react-native-maps] /Users/farhatiriadh/workspace/oxycare-mobile/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:lottie-react-native] /Users/farhatiriadh/workspace/oxycare-mobile/node_modules/lottie-react-native/src/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:lottie-react-native] /Users/farhatiriadh/workspace/oxycare-mobile/node_modules/lottie-react-native/src/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/9110924fa5aa38f8594591ae482ee47f/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/9110924fa5aa38f8594591ae482ee47f/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/952b810127db0d9415b60d3f48442ef5/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:22:5-67
@@ -156,6 +160,8 @@ MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/farhatiriadh/.gr
 MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/d3e6246e707c39261af636f804f328d7/jetified-firebase-common-19.5.0/AndroidManifest.xml:25:5-47:19
 MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/c627699b6dc26bc72b3b505ba5c6bdba/jetified-soloader-0.10.1/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/c627699b6dc26bc72b3b505ba5c6bdba/jetified-soloader-0.10.1/AndroidManifest.xml:11:5-20
+MERGED from [com.airbnb.android:lottie:3.4.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/bb453c2dae4aa8713f9f0f3f19cdecdc/jetified-lottie-3.4.0/AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.4.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/bb453c2dae4aa8713f9f0f3f19cdecdc/jetified-lottie-3.4.0/AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.material:material:1.1.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/5271280b7acdf978fc94ed41430e8d2e/material-1.1.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/5271280b7acdf978fc94ed41430e8d2e/material-1.1.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/47f2bbf34d181dc69307c2d1c22a9f51/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
@@ -258,6 +264,8 @@ MERGED from [:react-native-community_masked-view] /Users/farhatiriadh/workspace/
 MERGED from [:react-native-community_masked-view] /Users/farhatiriadh/workspace/oxycare-mobile/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-google-signin_google-signin] /Users/farhatiriadh/workspace/oxycare-mobile/node_modules/@react-native-google-signin/google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-google-signin_google-signin] /Users/farhatiriadh/workspace/oxycare-mobile/node_modules/@react-native-google-signin/google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:lottie-react-native] /Users/farhatiriadh/workspace/oxycare-mobile/node_modules/lottie-react-native/src/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:lottie-react-native] /Users/farhatiriadh/workspace/oxycare-mobile/node_modules/lottie-react-native/src/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-config] /Users/farhatiriadh/workspace/oxycare-mobile/node_modules/react-native-config/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-config] /Users/farhatiriadh/workspace/oxycare-mobile/node_modules/react-native-config/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-gesture-handler] /Users/farhatiriadh/workspace/oxycare-mobile/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
@@ -312,6 +320,8 @@ MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/farhatiriadh/.gradle/cac
 MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/52b5b2db78eeb431d2bfab4593274942/jetified-soloader-2.2.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/c627699b6dc26bc72b3b505ba5c6bdba/jetified-soloader-0.10.1/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/c627699b6dc26bc72b3b505ba5c6bdba/jetified-soloader-0.10.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:lottie:3.4.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/bb453c2dae4aa8713f9f0f3f19cdecdc/jetified-lottie-3.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.4.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/bb453c2dae4aa8713f9f0f3f19cdecdc/jetified-lottie-3.4.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.material:material:1.1.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/5271280b7acdf978fc94ed41430e8d2e/material-1.1.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.1.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/5271280b7acdf978fc94ed41430e8d2e/material-1.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/1b8bd15e4db8486592aed62fdac04bd1/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
