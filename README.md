@@ -39,7 +39,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/35867284?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mohamed E.Faleh</b></sub></a><br /><a href="" title="Answering Questions">💬</a><a href="" title="Code">💻</a> <a href="https://github.com/tunpl/oxycare-mobile" title="Documentation">📖</a> <a href="https://github.com/tunpl/oxycare-mobile/pulls" title="Reviewed Pull Requests">👀</a> <a href="" title="Talks">📢</a></td>
+    <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/35867284?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mohamed E.Faleh</b></sub></a><br /><a href="#" title="Answering Questions">💬</a><a href="" title="Code">💻</a> <a href="https://github.com/tunpl/oxycare-mobile" title="Documentation">📖</a> <a href="https://github.com/tunpl/oxycare-mobile/pulls" title="Reviewed Pull Requests">👀</a> <a href="" title="Talks">📢</a></td>
     <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/13996941?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Riadh Farhati</b></sub></a><br /><a href="#" title="Translation">🌍</a> <a href="" title="Code">💻</a> <a href="" title="Documentation">📖</a></td><a href="" title="Answering Questions">💬</a>
   </tr>
   </table>
