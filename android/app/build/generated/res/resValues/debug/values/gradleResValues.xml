@@ -10,9 +10,9 @@
     <!-- Value from default config. -->
     <string name="APP_VERSION" translatable="false">"0.0.1"</string>
     <!-- Value from default config. -->
-    <string name="ENV" translatable="false">"development"</string>
+    <string name="ENV" translatable="false">"staging"</string>
     <!-- Value from default config. -->
-    <string name="serveurUrl" translatable="false">"http://localhost"</string>
+    <string name="serveurUrl" translatable="false">"http://localhost:8080"</string>
     <!-- Value from default config. -->
     <string name="webClientId" translatable="false">"293476204423-hofl4dfk643rbcmq263ui72rln7t7v15.apps.googleusercontent.com"</string>
 

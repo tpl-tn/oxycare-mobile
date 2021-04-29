@@ -10,6 +10,7 @@ import {
   NavigationContainer,
   useIsFocused,
 } from '@react-navigation/native';
+import { GlobalStack } from './src/Navigators/GlobalNavigator';
 export default class App extends Component {
   render() {
     return (
@@ -20,9 +21,8 @@ export default class App extends Component {
        
       }}
      >
-      <DrawerStack
-      // ref={(navigatorRef) => { Navigation.setTopLevelNavigator(navigatorRef) }}
-      ></DrawerStack>
+      <GlobalStack></GlobalStack>
+     
 
       {/* </SafeAreaView>  */}
     </NavigationContainer>

@@ -12,9 +12,9 @@ public final class BuildConfig {
   // Field from default config.
   public static final String APP_VERSION = "0.0.1";
   // Field from default config.
-  public static final String ENV = "development";
+  public static final String ENV = "staging";
   // Field from default config.
-  public static final String serveurUrl = "http://localhost";
+  public static final String serveurUrl = "http://localhost:8080";
   // Field from default config.
   public static final String webClientId = "293476204423-hofl4dfk643rbcmq263ui72rln7t7v15.apps.googleusercontent.com";
 }
