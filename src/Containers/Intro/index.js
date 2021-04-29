@@ -10,8 +10,9 @@ import {
 } from "react-native";
 
 import Swiper from "../../Components/Swiper";
-
-const IndexIntroContainer = () => {
+import { useNavigation } from '@react-navigation/native';
+const IndexIntroContainer = ({props}) => {
+    const navigation = useNavigation();
   return (
     <View style={{ flex: 1 }}>
       <View style={{ flex: 1, paddingHorizontal: 50 }}>
@@ -128,7 +129,10 @@ Oxycare App
           style={{ flex: 1, alignItems: "center", justifyContent: "center" }}
         >
           <View style={{ alignItems: "center", marginTop: 20 }}>
-            <View
+            <TouchableOpacity 
+            onPress={()=>{
+                navigation.navigate('DrawerStack') 
+            }}
               style={{
                 height: 56,
                 width: 307,
@@ -152,7 +156,7 @@ Oxycare App
               >
                 Next
               </Text>
-            </View>
+              </TouchableOpacity>
           </View>
           <View></View>
         </View>

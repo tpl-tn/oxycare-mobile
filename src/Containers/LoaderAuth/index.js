@@ -5,14 +5,12 @@ import AnimatedLoader from "react-native-animated-loader";
 export default class LoaderAuth extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { visible: false };
+    this.state = { visible: true };
   }
 
   componentDidMount() {
     setInterval(() => {
-      this.setState({
-        visible: !this.state.visible
-      });
+        this.props.navigation.navigate('AuthNavigator')
     }, 3000);
   }
 
