@@ -13,7 +13,7 @@ export function OxygeneNavigator({ props, navigation }) {
   return (
 
     <Stack.Navigator
-      initialRouteName="LoaderAuth"
+      initialRouteName="IndexIntroContainer"
       screenOptions={({ route, navigation }) => ({
         gestureEnabled: false,
         cardOverlayEnabled: true,

@@ -5,6 +5,10 @@ a mobile android version of oxycare.
 <img src="screenshots/im1.jpg" alt="drawing" width="200"/>
 <img src="screenshots/im2.jpg" alt="drawing" width="200"/>
 <img src="screenshots/im3.jpg" alt="drawing" width="200"/>
+<img src="screenshots/img4.jpg" alt="drawing" width="200"/>
+<img src="screenshots/img5.jpg" alt="drawing" width="200"/>
+<img src="screenshots/img6.jpg" alt="drawing" width="200"/>
+<img src="screenshots/img7.jpg" alt="drawing" width="200"/>
 <br />
 Different environments
 Save config for different environments in different files: .env.staging, .env.production, etc.
