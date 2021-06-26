@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import { Text, View ,StyleSheet} from 'react-native'
 import MapView, { PROVIDER_GOOGLE ,Marker} from 'react-native-maps';
 import Header from '../../Components/Header';
+import MarkerComponent from '../../Components/MarkerComponent';
 import data from './data'
 
 export default class Home extends Component {
@@ -20,12 +21,13 @@ export default class Home extends Component {
        }}
      >
        {data.map((marker, index) => (
-    <Marker
-      key={index}
-      coordinate={{ "latitude":marker.latitude,"longitude":marker.longitude }}
-      title={marker.tel}
-      description={marker.tel}
-    />
+        <MarkerComponent  key={index}
+        data={marker}
+        />
+
+    
+   
+   
 
     ))}
      </MapView>

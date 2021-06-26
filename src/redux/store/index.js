@@ -1,6 +1,7 @@
 import { authReducer } from "@reducers";
 import { createStore, applyMiddleware, combineReducers } from "redux";
 import { persistStore, persistReducer, REHYDRATE } from "redux-persist";
+import AsyncStorage from '@react-native-community/async-storage'
 import storage from "redux-persist/lib/storage";
 import axios from "axios";
 import { createLogger } from "redux-logger";
@@ -8,7 +9,7 @@ import axiosMiddleware from "redux-axios-middleware";
 
 export const persistConfig = {
   key: "root",
-  storage,
+  storage:AsyncStorage,
   timeout: null,
   keyPrefix: "",
   debug: true,
