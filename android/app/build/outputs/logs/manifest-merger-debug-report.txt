@@ -27,6 +27,7 @@ MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/farhatiria
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/a6b635d43c4b72eeba6e1c44be49bbd4/jetified-play-services-auth-api-phone-17.0.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/b7a56e46f9bb0c8289cfa113a06df431/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-base:17.2.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/ec0220319a15ee8e128ddcf9026197ec/jetified-play-services-base-17.2.1/AndroidManifest.xml:17:1-29:12
+MERGED from [:react-native-linear-gradient] /Users/farhatiriadh/workspace/oxycare-mobile/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-reanimated] /Users/farhatiriadh/workspace/oxycare-mobile/node_modules/react-native-reanimated/android/build/.transforms/77f47f734fbdfd791d3dd6622ff903da/jetified-react-native-reanimated-64/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/952b810127db0d9415b60d3f48442ef5/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:17:1-36:12
 MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/39d95f58b3bc866a750e958dfccc864c/jetified-firebase-installations-16.3.5/AndroidManifest.xml:2:1-24:12
@@ -94,7 +95,7 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/farhatiriadh/.grad
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/9cc82be82716a448e62b2318faaa9b4a/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/1561024d9aa8d2b6aa8042b1da4c84be/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/46e45a9d58789bc26e532135bdd45b3e/jetified-firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
-MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/6017e4634bf76eb976f76f6ea26774a7/jetified-android-maps-utils-0.5/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/596b9ee0b53ea0f13afed7f2e6d3fa19/jetified-android-maps-utils-0.5/AndroidManifest.xml:2:1-13:12
 MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/c7e2568551f27f76b3181492045c9323/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/a18acbd6e6245aae23df7bcd3b9de117/jetified-ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
 INJECTED from /Users/farhatiriadh/workspace/oxycare-mobile/android/app/src/debug/AndroidManifest.xml:2:1-13:12
@@ -191,8 +192,8 @@ MERGED from [androidx.core:core:1.2.0] /Users/farhatiriadh/.gradle/caches/transf
 MERGED from [androidx.core:core:1.2.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/8b719277ab03e8adbfe1b89e4b72d1d4/core-1.2.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/162dc168d3428ad5e0b1edef3433dbca/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/162dc168d3428ad5e0b1edef3433dbca/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/6017e4634bf76eb976f76f6ea26774a7/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
-MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/6017e4634bf76eb976f76f6ea26774a7/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/596b9ee0b53ea0f13afed7f2e6d3fa19/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/596b9ee0b53ea0f13afed7f2e6d3fa19/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.2.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/8b719277ab03e8adbfe1b89e4b72d1d4/core-1.2.0/AndroidManifest.xml:24:18-86
 	android:label
@@ -295,6 +296,8 @@ MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/farha
 MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/b7a56e46f9bb0c8289cfa113a06df431/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-base:17.2.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/ec0220319a15ee8e128ddcf9026197ec/jetified-play-services-base-17.2.1/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:17.2.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/ec0220319a15ee8e128ddcf9026197ec/jetified-play-services-base-17.2.1/AndroidManifest.xml:20:5-44
+MERGED from [:react-native-linear-gradient] /Users/farhatiriadh/workspace/oxycare-mobile/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/farhatiriadh/workspace/oxycare-mobile/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-reanimated] /Users/farhatiriadh/workspace/oxycare-mobile/node_modules/react-native-reanimated/android/build/.transforms/77f47f734fbdfd791d3dd6622ff903da/jetified-react-native-reanimated-64/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-reanimated] /Users/farhatiriadh/workspace/oxycare-mobile/node_modules/react-native-reanimated/android/build/.transforms/77f47f734fbdfd791d3dd6622ff903da/jetified-react-native-reanimated-64/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.gms:play-services-measurement-api:18.0.3] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/952b810127db0d9415b60d3f48442ef5/jetified-play-services-measurement-api-18.0.3/AndroidManifest.xml:20:5-44
@@ -429,8 +432,8 @@ MERGED from [androidx.print:print:1.0.0] /Users/farhatiriadh/.gradle/caches/tran
 MERGED from [androidx.print:print:1.0.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/1561024d9aa8d2b6aa8042b1da4c84be/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/46e45a9d58789bc26e532135bdd45b3e/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/46e45a9d58789bc26e532135bdd45b3e/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/6017e4634bf76eb976f76f6ea26774a7/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
-MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/6017e4634bf76eb976f76f6ea26774a7/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/596b9ee0b53ea0f13afed7f2e6d3fa19/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/596b9ee0b53ea0f13afed7f2e6d3fa19/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
 MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/c7e2568551f27f76b3181492045c9323/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/c7e2568551f27f76b3181492045c9323/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/a18acbd6e6245aae23df7bcd3b9de117/jetified-ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
@@ -599,8 +602,8 @@ ADDED from [com.google.android.gms:play-services-measurement:18.0.3] /Users/farh
 		ADDED from [com.google.android.gms:play-services-measurement:18.0.3] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/e9b08aecd8d9cc1eeacb801e233758db/jetified-play-services-measurement-18.0.3/AndroidManifest.xml:40:13-87
 meta-data#com.google.android.gms.version
 ADDED from [com.google.android.gms:play-services-basement:17.2.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/04608cadf39374ed63175c82f547d3cd/jetified-play-services-basement-17.2.1/AndroidManifest.xml:23:9-25:69
-MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/6017e4634bf76eb976f76f6ea26774a7/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
-MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/6017e4634bf76eb976f76f6ea26774a7/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/596b9ee0b53ea0f13afed7f2e6d3fa19/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/596b9ee0b53ea0f13afed7f2e6d3fa19/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
 	android:value
 		ADDED from [com.google.android.gms:play-services-basement:17.2.1] /Users/farhatiriadh/.gradle/caches/transforms-2/files-2.1/04608cadf39374ed63175c82f547d3cd/jetified-play-services-basement-17.2.1/AndroidManifest.xml:25:13-66
 	android:name

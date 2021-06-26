@@ -7,6 +7,7 @@ import About from "../Containers/About";
 import AuthModal from "../Containers/Auth/AuthModal";
 import IndexIntroContainer from "../Containers/Intro";
 import LoaderAuth from "../Containers/LoaderAuth";
+import Actualite from "../Containers/Actualite";
 
 const Stack = createStackNavigator();
 export function OxygeneNavigator({ props, navigation }) {
@@ -51,7 +52,14 @@ export function OxygeneNavigator({ props, navigation }) {
           title: "About", headerTitle: "About" }}
          />
          
+         <Stack.Screen name="Actualite" component={Actualite}
+        options={{
+          headerTintColor: '#5faae1',
+          headerTitleStyle: {color:'black'},
+          title: "Actualite", headerTitle: "Actualite" }}
+         />
       
+         
     </Stack.Navigator>
   
   )
