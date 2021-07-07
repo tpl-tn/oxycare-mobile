@@ -24,12 +24,12 @@ class MarkerComponent extends Component {
         <Callout 
      
         style={{width: WIDTH / 2}}>
-          <Text
+          {/* <Text
             style={styles.textName}
             numberOfLines={2}
             ellipsizeMode={'tail'}>
                 hello
-            {/* {data.name} */}
+            
           </Text>
           <View
             style={{
@@ -40,10 +40,10 @@ class MarkerComponent extends Component {
               numberOfLines={3}
               ellipsizeMode={'tail'}>
                 address
-              {/* {screenProps.t('search:markerInfo.addr')} */}
+             
             </Text>
             <Text style={styles.infoText}> addredd</Text>
-          </View>
+          </View> */}
           {data.tel ? (
             <View
               style={{

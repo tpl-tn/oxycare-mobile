@@ -12,7 +12,7 @@ public final class BuildConfig {
   // Field from default config.
   public static final String APP_VERSION = "0.0.1";
   // Field from default config.
-  public static final String ENV = "staging";
+  public static final String ENV = "development";
   // Field from default config.
   public static final String serveurUrl = "http://localhost:8080";
   // Field from default config.

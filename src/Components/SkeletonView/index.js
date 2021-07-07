@@ -98,8 +98,8 @@ SkeletonView.defaultProps = {
   containerStyles: [],
   width: 100,
   height: 20,
-  duration: 1000,
-  interval: 1000,
+  duration: 700,
+  interval: 700,
   animated: true,
 };
 
