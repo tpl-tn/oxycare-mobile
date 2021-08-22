@@ -11,11 +11,14 @@ import {
 
 import Swiper from "../../Components/Swiper";
 import { useNavigation } from '@react-navigation/native';
+import SliderComponets from "./SliderComponents";
 const IndexIntroContainer = ({props}) => {
     const navigation = useNavigation();
   return (
     <View style={{ flex: 1 }}>
-      <View style={{ flex: 1, paddingHorizontal: 50 }}>
+        <SliderComponets></SliderComponets>
+
+      {/* <View style={{ flex: 1, paddingHorizontal: 50 }}>
         <Swiper
           dotColor={"#D6D6D6"}
           activeDotColor={"#29b6f6"}
@@ -78,7 +81,7 @@ const IndexIntroContainer = ({props}) => {
     </Image>
           </View>
         </Swiper>
-      </View>
+      </View> */}
       <View style={{ flex: 1 }}>
         <View style={{ flex: 1 }}>
           <View style={{ marginVertical: 35 }}>
@@ -126,7 +129,7 @@ Oxycare App
           </View>
         </View>
         <View
-          style={{ flex: 1, alignItems: "center", justifyContent: "center" }}
+          style={{ flex: 0.7, alignItems: "center", justifyContent: "center" }}
         >
           <View style={{ alignItems: "center", marginTop: 20 }}>
             <TouchableOpacity 

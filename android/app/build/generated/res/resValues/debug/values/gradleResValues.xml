@@ -10,7 +10,7 @@
     <!-- Value from default config. -->
     <string name="APP_VERSION" translatable="false">"0.0.1"</string>
     <!-- Value from default config. -->
-    <string name="ENV" translatable="false">"staging"</string>
+    <string name="ENV" translatable="false">"development"</string>
     <!-- Value from default config. -->
     <string name="serveurUrl" translatable="false">"http://localhost:8080"</string>
     <!-- Value from default config. -->

@@ -1,4 +1,5 @@
 const data =[
+
     {
         "id":1,
         "tel": "24500361",
@@ -91,14 +92,8 @@ const data =[
 
 
     }
-    ,
-    {
-        "id":14,
-        "tel": "97002003",
-        "latitude": 34.1902237,
-        "longitude": 10.6188865,
-
-    }
+    
+    
     ,
     {
         "id":15,
@@ -124,6 +119,12 @@ const data =[
         "longitude": 8.8139112,
 
 
+    },
+    {
+        "id":18,
+        "tel":"20 211 471",
+        "latitude":36.7573296,
+        "longitude":10.0326974
     }
 ]
 export default  data;

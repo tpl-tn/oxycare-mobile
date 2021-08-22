@@ -22,8 +22,9 @@ export default class SideMenuScreen extends Component {
                   text="Contacts" icon="id-card" onPress={()=>{ this.props.navigation.navigate("Contacts")}} />
                     <ItemSideMenu
                   text="About" icon="info"  onPress={()=>{ this.props.navigation.navigate("About")}} />
+                       {/* <ItemSideMenu
+                  text="Actualite" icon="Actualite"  onPress={()=>{ this.props.navigation.navigate("Actualite")}} /> */}
                        
-
             
 
             </View>

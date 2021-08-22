@@ -8,7 +8,7 @@ const Header = ({ height = 50, width = 50, mode = 'contain' ,borderRadius=50,onP
 
   return (
    
-    <View style={{ backgroundColor:"red",height, width ,position:'absolute',top:10,borderRadius,left:15,alignItems:'center',justifyContent:"center",borderRadius:30,shadowColor: "#000",
+    <View style={{ backgroundColor:"rgb(68, 173, 249)",height, width ,position:'absolute',top:10,borderRadius,left:15,alignItems:'center',justifyContent:"center",borderRadius:30,shadowColor: "#000",
     shadowOffset: {
       width: 0,
       height: 2,

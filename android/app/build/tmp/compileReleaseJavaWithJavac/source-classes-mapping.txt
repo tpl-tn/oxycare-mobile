@@ -1,9 +1,0 @@
-com/oxygenetn/MainApplication.java
- com.oxygenetn.MainApplication
- com.oxygenetn.MainApplication$1
-com/oxygenetn/BuildConfig.java
- com.oxygenetn.BuildConfig
-com/oxygenetn/MainActivity.java
- com.oxygenetn.MainActivity
-com/facebook/react/PackageList.java
- com.facebook.react.PackageList

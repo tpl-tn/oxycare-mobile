@@ -1,4 +1,0 @@
-#Tue Apr 27 12:06:18 CET 2021
-base.0=/Users/farhatiriadh/workspace/oxycare/MobileApp/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
